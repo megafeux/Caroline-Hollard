@@ -1,5 +1,5 @@
 ---
-title: About
+title: A propos
 date: 2019-07-09
 menu: ''
 
