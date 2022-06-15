@@ -1,13 +1,12 @@
 ---
 title: About
 date: 2019-07-09
-menu:
-  main:
-    weight: 999
+menu: ''
+
 ---
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
 
-## How to use?
+## Valeurs
 
 ### Managing content with [Forestry](https://forestry.io)
 
