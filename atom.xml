@@ -60,7 +60,7 @@
   </entry>
   <entry xml:lang="en">
     <id>/public/about/</id>
-    <title>About</title>
+    <title>A propos</title>
     <content type="html">
       <![CDATA[<blockquote>
 <p>A ready to use static blog, powered by <a href="https://cecil.app">Cecil</a>.</p>
