@@ -3,7 +3,7 @@ title: Caroline Hollard
 baseline: Your blogging assistant
 description: Communication culturelle
 baseurl: "/public"
-canonicalurl: true
+canonicalurl: false
 keywords:
 - Cecil
 - Static Site Generator
