@@ -20,4 +20,4 @@ hyde:
   sidebar:
     sticky: true
   theme: ''
-  reverse: false
+  reverse: true
