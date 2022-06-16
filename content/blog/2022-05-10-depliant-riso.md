@@ -1,6 +1,6 @@
 ---
-title: Dépliant riso
-date: 2020-03-09
+title: Depliant riso
+date: 2022-05-09T22:00:00Z
 image: "/depliant-1.jpg"
 tags:
 - Film
