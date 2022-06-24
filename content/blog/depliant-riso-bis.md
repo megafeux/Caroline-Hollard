@@ -1,6 +1,6 @@
 ---
-date: 2022-06-16T13:35:39Z
-draft: true
+date: 2022-06-16T13:35:39.000+00:00
+draft: false
 title: Depliant riso bis
 image: "/depliant-1.jpg"
 tags: []
