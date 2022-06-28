@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Caroline Hollard
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Communication culturelle
