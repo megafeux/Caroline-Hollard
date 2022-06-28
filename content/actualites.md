@@ -5,4 +5,6 @@ title: Actualités
 menu: main
 
 ---
-Les actualités
+Les actualités 
+
+![](/images/depliant-2.jpg)
