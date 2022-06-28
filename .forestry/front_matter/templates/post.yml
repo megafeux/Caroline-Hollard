@@ -17,5 +17,4 @@ fields:
   name: tags
   label: Tags
 pages:
-- content/blog/depliant-riso-bis.md
 - content/blog/documentation.md
