@@ -15,5 +15,3 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-pages:
-- content/blog/2022-06-28-documentation.md
