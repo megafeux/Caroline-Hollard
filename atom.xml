@@ -1,64 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/atom.xsl" media="all"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/public/</id>
   <title>Caroline Hollard</title>
   <subtitle><![CDATA[Communication culturelle]]></subtitle>
   <link href="/public/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/public/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <updated>2022-06-29T12:29:24+02:00</updated>
   <author>
     <name>Caroline Hollard</name>
     <uri>/public</uri>
   </author>
   <entry xml:lang="en">
-    <id>/public/blog/princess-mononoke/</id>
-    <title>Dépliant riso</title>
+    <id>/public/actualites/</id>
+    <title>Actualites</title>
     <content type="html">
-      <![CDATA[<p><strong><em>Princess Mononoke</em></strong> (<a href="https://en.m.wikipedia.org/wiki/Japanese_language">Japanese</a>: もののけ姫 <a href="https://en.m.wikipedia.org/wiki/Hepburn_romanization">Hepburn</a>: <strong>Mononoke-<a href="https://en.m.wikipedia.org/wiki/Hime">hime</a></strong>, &quot;Spirit/Monster Princess&quot;) is a 1997 Japanese <a href="https://en.m.wikipedia.org/wiki/Anime">animated</a> <a href="https://en.m.wikipedia.org/wiki/Fantasy_film">fantasy film</a> written and directed by <a href="https://en.m.wikipedia.org/wiki/Hayao_Miyazaki">Hayao Miyazaki</a>, animated by <a href="https://en.m.wikipedia.org/wiki/Studio_Ghibli">Studio Ghibli</a> for <a href="https://en.m.wikipedia.org/wiki/Tokuma_Shoten">Tokuma Shoten</a>, <a href="https://en.m.wikipedia.org/wiki/Nippon_Television_Network">Nippon Television Network</a> and <a href="https://en.m.wikipedia.org/wiki/Dentsu">Dentsu</a>, and distributed by <a href="https://en.m.wikipedia.org/wiki/Toho">Toho</a>. The film stars the voices of <a href="https://en.m.wikipedia.org/wiki/Yōji_Matsuda">Yōji Matsuda</a>, <a href="https://en.m.wikipedia.org/wiki/Yuriko_Ishida">Yuriko Ishida</a>, <a href="https://en.m.wikipedia.org/wiki/Yūko_Tanaka">Yūko Tanaka</a>, <a href="https://en.m.wikipedia.org/wiki/Kaoru_Kobayashi_(actor)">Kaoru Kobayashi</a>, <a href="https://en.m.wikipedia.org/wiki/Masahiko_Nishimura">Masahiko Nishimura</a>, <a href="https://en.m.wikipedia.org/wiki/Tsunehiko_Kamijo">Tsunehiko Kamijo</a>, <a href="https://en.m.wikipedia.org/wiki/Akihiro_Miwa">Akihiro Miwa</a>, <a href="https://en.m.wikipedia.org/wiki/Mitsuko_Mori">Mitsuko Mori</a> and <a href="https://en.m.wikipedia.org/wiki/Hisaya_Morishige">Hisaya Morishige</a>.</p>
-<!-- excerpt -->
-<p><em>Princess Mononoke</em> is set in the late <a href="https://en.m.wikipedia.org/wiki/Muromachi_period">Muromachi period</a> (approximately 1336 to 1573) of Japan with fantasy elements. The story follows the young <a href="https://en.m.wikipedia.org/wiki/Emishi">Emishi</a> prince Ashitaka's involvement in a struggle between the gods of a forest and the humans who consume its resources. The term &quot;<a href="https://en.m.wikipedia.org/wiki/Mononoke">Mononoke</a>&quot; (<a href="https://en.wiktionary.org/wiki/物の怪">物の怪</a>) or もののけ is not a name, but a Japanese word for a spirit or monster: supernatural, shape-shifting beings.</p>
-<p>The film was released in Japan on July 12, 1997, and in the United States on October 29, 1999. It was a critical and commercial <a href="https://en.m.wikipedia.org/wiki/Blockbuster_(entertainment)">blockbuster</a>, becoming the highest-grossing film in Japan of 1997, and also held Japan's box office record for domestic films until 2001's <em><a href="https://en.m.wikipedia.org/wiki/Spirited_Away">Spirited Away</a></em>, another Miyazaki film. It was <a href="https://en.m.wikipedia.org/wiki/Dubbing_(filmmaking)">dubbed</a> into English and distributed in North America by <a href="https://en.m.wikipedia.org/wiki/Miramax">Miramax</a>, and despite a poor box office performance there, it sold well on DVD and video, greatly increasing Ghibli's popularity and influence outside Japan.</p>
-<blockquote>
-<p>Source: <a href="https://en.m.wikipedia.org/wiki/Princess_Mononoke">https://en.m.wikipedia.org/wiki/Princess_Mononoke</a></p>
-</blockquote>]]>
+      <![CDATA[<p>Co-conception d’outils de communication print &amp; web<br />
+Définition de plan de communication<br />
+Expérimentation d’outils de documentation<br />
+Médiation sur des actions de proximité</p>]]>
     </content>
-    <link href="/public/blog/princess-mononoke/" rel="alternate" type="text/html" />
-    <published>2020-03-09T01:00:00+01:00</published>
-    <updated>2020-03-09T01:00:00+01:00</updated>
+    <link href="/public/actualites/" rel="alternate" type="text/html" />
+    <published>2022-06-29T12:29:24+02:00</published>
+    <updated>2022-06-29T12:29:24+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>/public/blog/doom/</id>
-    <title>Doom</title>
+    <id>/public/parcours-1/</id>
+    <title>Parcours</title>
     <content type="html">
-      <![CDATA[<p><strong><em>Doom</em></strong> (stylized as <strong><em>DOOM</em></strong> or <strong><em>DooM</em></strong> in other media) is a 1993 <a href="https://en.m.wikipedia.org/wiki/First-person_shooter">first-person shooter</a> developed and published by <a href="https://en.m.wikipedia.org/wiki/Id_Software">id Software</a> for <a href="https://en.m.wikipedia.org/wiki/MS-DOS">MS-DOS</a>. Players assume the role of a <a href="https://en.m.wikipedia.org/wiki/Space_marine">space marine</a>, popularly known as &quot;<a href="https://en.m.wikipedia.org/wiki/Doomguy">Doomguy</a>&quot;, fighting his way through hordes of invading <a href="https://en.m.wikipedia.org/wiki/Demon">demons</a> from <a href="https://en.m.wikipedia.org/wiki/Hell">Hell</a>. The first episode, comprising nine levels, was distributed freely as <a href="https://en.m.wikipedia.org/wiki/Shareware">shareware</a> and played by an estimated 15–20 million people within two years; the full game, with two further episodes, was sold via <a href="https://en.m.wikipedia.org/wiki/Mail_order">mail order</a>. An updated version with an additional episode, <em>Ultimate Doom</em>, was released in 1995 and sold at retail.</p>
-<!-- excerpt -->
-<p>Along with its predecessor <em><a href="https://en.m.wikipedia.org/wiki/Wolfenstein_3D">Wolfenstein 3D</a></em>, <em>Doom</em> helped define the FPS genre and inspired numerous similar games, known as &quot;<a href="https://en.m.wikipedia.org/wiki/Doom_clone"><em>Doom</em> clones</a>&quot;. It is one of the most significant games in <a href="https://en.m.wikipedia.org/wiki/Video_game_history">video game history</a>, and is frequently cited as one of the <a href="https://en.m.wikipedia.org/wiki/Greatest_video_games_of_all_time">greatest games of all time</a>. It pioneered <a href="https://en.m.wikipedia.org/wiki/Online_distribution">online distribution</a> and technologies including <a href="https://en.m.wikipedia.org/wiki/3D_computer_graphics">3D graphics</a>, networked <a href="https://en.m.wikipedia.org/wiki/Multiplayer_video_game">multiplayer gaming</a>, and support for customized <a href="https://en.m.wikipedia.org/wiki/Modification_(video_game)">modifications</a> via packaged files (<a href="https://en.m.wikipedia.org/wiki/Doom_WAD">WADs</a>). Its graphic violence and hellish imagery also made it the <a href="https://en.m.wikipedia.org/wiki/Video_game_controversy">subject of controversy</a>, however.</p>
-<p><em>Doom</em> has been <a href="https://en.m.wikipedia.org/wiki/Official_versions_of_Doom">ported to numerous platforms</a>. The <a href="https://en.m.wikipedia.org/wiki/Doom_(franchise)"><em>Doom</em> franchise</a> continued with <em><a href="https://en.m.wikipedia.org/wiki/Doom_II:_Hell_on_Earth">Doom II: Hell on Earth</a></em> (1994) and <a href="https://en.m.wikipedia.org/wiki/Expansion_pack">expansion packs</a> including <em><a href="https://en.m.wikipedia.org/wiki/Master_Levels_for_Doom_II">Master Levels for Doom II</a></em> (1995). The <a href="https://en.m.wikipedia.org/wiki/Source_code">source code</a> was released in 1997, inspiring further adaptations. Id returned to the franchise with <em><a href="https://en.m.wikipedia.org/wiki/Doom_3">Doom 3</a></em> (2004), a horror-focused retelling using the <a href="https://en.m.wikipedia.org/wiki/Id_Tech_4">id Tech 4</a> engine, followed by a 2005 <a href="https://en.m.wikipedia.org/wiki/Doom_(film)"><em>Doom</em> film</a>. A 2016 reboot also titled <em><a href="https://en.m.wikipedia.org/wiki/Doom_(2016_video_game)">Doom</a>,</em> powered by <a href="https://en.m.wikipedia.org/wiki/Id_Tech_6">id Tech 6</a>, returned to the fast-paced action of the first games.</p>
-<blockquote>
-<p>Source: <a href="https://en.m.wikipedia.org/wiki/Doom_(1993_video_game">https://en.m.wikipedia.org/wiki/Doom_(1993_video_game</a>)</p>
-</blockquote>]]>
+      <![CDATA[<p><strong>Lieux culturels</strong></p>
+<p><strong>TU-Nantes</strong> I Chargée de communication et de médiation numérique<br />
+<strong>Culture Commune</strong> I Chargée de communication<br />
+<strong>Rencontres audiovisuelles</strong> I Chargée de l'information<br />
+<strong>Nancy Jazz Pulsations</strong> I Chargée de l'information et des relations presse<br />
+<strong>Théâtre National de Strasbourg</strong> I Attachée à l'information</p>
+<p><strong>Structures universitaires</strong></p>
+<p><strong>Université Gustave Eiffel</strong> I DU &quot;Espaces Communs&quot;<br />
+<strong>Université du Littoral Côte d'Opale</strong> I Master Culture, création artistique et développement du territoire<br />
+<strong>Université de Lille</strong> I Licence Culture et Médias</p>]]>
     </content>
-    <link href="/public/blog/doom/" rel="alternate" type="text/html" />
-    <published>2019-12-14T01:00:00+01:00</published>
-    <updated>2019-12-14T01:00:00+01:00</updated>
+    <link href="/public/parcours-1/" rel="alternate" type="text/html" />
+    <published>2022-06-16T17:29:42+02:00</published>
+    <updated>2022-06-16T17:29:42+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>/public/about/</id>
-    <title>About</title>
+    <id>/public/parcours/</id>
+    <title>Présentation</title>
     <content type="html">
-      <![CDATA[<blockquote>
-<p>A ready to use static blog, powered by <a href="https://cecil.app">Cecil</a>.</p>
-</blockquote>
-<h2 id="valeurs">Valeurs</h2>
-<h3 id="managing-content-with-forestry-https-forestry-io">Managing content with <a href="https://forestry.io">Forestry</a></h3>
-<p>If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!</p>
-<p><a href="https://cecil.app/cms/forestry/import/"><img src="/assets/assets.forestry.io/import-to-forestryK.ae770f039f3fd871643ef15c32987c4e.svg" alt="Import this project into Forestry" loading="lazy" width="142" height="32" /></a></p>
-<h3 id="deploy-with-netlify-https-www-netlify-com">Deploy with <a href="https://www.netlify.com">Netlify</a></h3>
-<p>Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.</p>
-<p><a href="https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&amp;stack=cms"><img src="/assets/www.netlify.com/img/deploy/button.3ad9ffd81513851911c7c1ccd470b19b.svg" alt="Deploy to Netlify" loading="lazy" width="146" height="32" /></a></p>]]>
+      <![CDATA[<p>Je contribue à la conception et l’animation de projets culturels en tant que chargée de communication. Basée à Nantes, je me déplace d’un territoire à l’autre. C’est dans une démarche de proximité, en valorisant les dynamiques relationnelles, et de sobriété, en allant à l’essentiel, que j’accompagne les compagnies et les collectifs. Je favorise ainsi les bonnes pratiques en cohérence avec les transitions actuelles.<br />
+Je construis vos plans de communication, coordonne la réalisation et la circulation des supports, décline des messages et récits adaptés aux projets stimulants que vous imaginez. C’est entourée de partenaires que j’assure le suivi des projets ; je travaille à distance géographique ou je m’installe au sein d’espaces de création, de diffusion et de convivialité. Dans mon champ d’action s’inscrivent aussi la documentation des projets sur le terrain et l’accueil des groupes et des usagers.ères.</p>]]>
     </content>
-    <link href="/public/about/" rel="alternate" type="text/html" />
-    <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2019-07-09T02:00:00+02:00</updated>
+    <link href="/public/parcours/" rel="alternate" type="text/html" />
+    <published>2022-06-16T15:47:17+02:00</published>
+    <updated>2022-06-16T15:47:17+02:00</updated>
   </entry>
 </feed>
