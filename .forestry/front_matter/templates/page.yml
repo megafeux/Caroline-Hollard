@@ -18,5 +18,6 @@ fields:
   label: Menu
 pages:
 - content/actualites.md
+- content/missions.md
 - content/parcours-1.md
 - content/parcours.md
