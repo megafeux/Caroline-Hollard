@@ -6,11 +6,40 @@
   <subtitle><![CDATA[Communication culturelle]]></subtitle>
   <link href="/public/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/public/" rel="alternate" type="text/html" />
-  <updated>2022-06-29T12:29:24+02:00</updated>
+  <updated>2022-06-30T17:08:09+02:00</updated>
   <author>
     <name>Caroline Hollard</name>
     <uri>/public</uri>
   </author>
+  <entry xml:lang="en">
+    <id>/public/missions/</id>
+    <title>Missions</title>
+    <content type="html">
+      <![CDATA[<h5 id="mission-continue-1-journée-et-plus-mois">Mission continue : 1 journée et plus / mois</h5>
+<ul>
+<li>Co-définition et suivi du plan de communication</li>
+<li>Actualisation des outils (site web, newsletter, dossier artistique, kit com)</li>
+<li>Coordination/conception des outils de communication avec les prestataires (graphiste, imprimeur.euse, traducteur.rice)</li>
+<li>Développement/suivi d’une grille éditoriale (site web, réseaux sociaux, magazine)</li>
+<li>Documentation sur des actions (résidence, projet de territoire, occupation, chantier participatif)</li>
+<li>Médiation sur des actions de proximité (permanence d’accueil sur un événement, stand de proximité)</li>
+<li>Communication interne et animation du collectif (équipe, bénévoles, adhérent.e.s)</li>
+</ul>
+<h5 id="mission-forfaitaire-1-2-3-journées-et-plus">Mission forfaitaire : 1-2-3 journées et plus</h5>
+<ul>
+<li>Co-définition d’une stratégie de communication (identité visuelle, plan de communication)</li>
+<li>Coordination/conception d’outil print complexe ou expérimental (projet graphique, dossier artistique, brochure)</li>
+<li>Coordination/conception web (rafraîchissement ou éco-conception de site web)</li>
+<li>Définition d’une stratégie éditoriale (site web, fanzine, communautés en ligne)</li>
+<li>Déclinaison d’un plan de communication pour un temps fort</li>
+<li>Documentation et/ou médiation sur une action (résidence, projet de territoire)</li>
+<li>Relations presse</li>
+</ul>]]>
+    </content>
+    <link href="/public/missions/" rel="alternate" type="text/html" />
+    <published>2022-06-30T17:08:09+02:00</published>
+    <updated>2022-06-30T17:08:09+02:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>/public/actualites/</id>
     <title>Actualites</title>
