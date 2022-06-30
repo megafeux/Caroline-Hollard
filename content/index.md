@@ -12,4 +12,4 @@ title: Home
 Convivialité - proximité - sobriété & éco-conception - accessibilité & inclusion - coopération 
 **Intérêt pour les domaines** : création artistique, urbanisme culturel, ESS
 
-Mon activité est hébergée au sein d’[**Oz**] (https://www.oz-coop.fr/) Coopérative d’Activités et d’Emploi des métiers culturels et créatifs.
+Mon activité est hébergée au sein d’[**Oz**](https://www.oz-coop.fr/ "Oz") Coopérative d’Activités et d’Emploi des métiers culturels et créatifs.
