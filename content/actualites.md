@@ -10,4 +10,4 @@ Définition de plan de communication
 Expérimentation d’outils de documentation  
 Médiation sur des actions de proximité
 
-![](/images/depliant_02.jpg)
+![](/images/depliant_02.jpg "Dépliant riso")
