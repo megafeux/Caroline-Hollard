@@ -44,7 +44,12 @@
     <id>/public/actualites/</id>
     <title>Actualites</title>
     <content type="html">
-      <![CDATA[<img src="/images/depliant_01.4654459547f0347141e4b41e4d1d3579.jpg" alt="" title="Dépliant riso 2" loading="lazy" width="512" height="288" />]]>
+      <![CDATA[<img src="/images/depliant_01.4654459547f0347141e4b41e4d1d3579.jpg" alt="" title="Dépliant riso 2" loading="lazy" width="512" height="288" />
+<p>Dépliant 2 plis montagne<br />
+2 couleurs - bleu et rose fluo<br />
+papier </p>
+<p><strong>Réalisation de ma carte de visite qui présente mon activité.<br />
+</strong>Conçu en bonne compagnie avec Paul Parant pour la création graphique et l’atelier Bonus pour l’impression, rédaction et façonnage maison.</p>]]>
     </content>
     <link href="/public/actualites/" rel="alternate" type="text/html" />
     <published>2022-06-29T12:29:24+02:00</published>
