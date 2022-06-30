@@ -12,7 +12,7 @@ Je construis vos **plans de communication**, coordonne la réalisation et la cir
 
 * Co-conception d’outils de communication print & web
 * Définition de plan de communication
-* Expérimentation d’outils de documentation ([comme ici](https://espaces-communs.fr/design-despaces-normes-et-reglementations/ (Documentation session "Design d'espaces")))
+* Expérimentation d’outils de documentation -> [comme ici](https://espaces-communs.fr/design-despaces-normes-et-reglementations/ "Documentation session DU")
 * Médiation sur des actions de proximité
 
 ##### Avec qui ?
