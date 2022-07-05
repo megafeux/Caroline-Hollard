@@ -8,7 +8,8 @@ title: Home
 
 #### Contact
 Parlons-en : caroline.hollard@proton.me ou 06 77 80 66 99
-C'est comment la com. chez vous ? Contribuez au petit [questionnaire ici] (https://framaforms.org/cest-comment-la-com-chez-vous-1643731593 / "questionnaire") !
+
+C'est comment la com. chez vous ? Contribuez au petit [**questionnaire ici**](https://framaforms.org/cest-comment-la-com-chez-vous-1643731593/ "questionnaire ici") !
 
 #### Valeurs
 Convivialité - proximité - sobriété & éco-conception - accessibilité & inclusion - coopération 
