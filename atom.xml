@@ -13,7 +13,7 @@
   </author>
   <entry xml:lang="en">
     <id>/public/missions/</id>
-    <title>Missions</title>
+    <title>missions</title>
     <content type="html">
       <![CDATA[<h5 id="mission-continue-1-journée-et-plus-mois">Mission continue : 1 journée et plus / mois</h5>
 <ul>
@@ -62,7 +62,7 @@
   </entry>
   <entry xml:lang="en">
     <id>/public/parcours-1/</id>
-    <title>Parcours</title>
+    <title>parcours</title>
     <content type="html">
       <![CDATA[<p><strong>Lieux culturels</strong></p>
 <p><a href="http://tunantes.fr/" title="TU Nantes"><strong>TU-Nantes</strong></a> I Chargée de communication et de médiation numérique<br />
