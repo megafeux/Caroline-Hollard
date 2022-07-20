@@ -1,7 +1,7 @@
 ---
-date: 2022-06-30T17:08:09+02:00
+date: 2022-06-30T17:08:09.000+02:00
 draft: false
-title: Missions
+title: missions
 menu: main
 
 ---
