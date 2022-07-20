@@ -8,13 +8,14 @@ menu: main
 ![](/images/depliant_01.jpg "Depliant riso")  
 **Conception graphique x carte de visite dépliante**  
 Avec : design graphique : [Paul Parant](https://paulparant.com/ "Paul Parant") - impression : [Pôle print / Bonus](https://www.collectifbonus.fr/pole-print/ "Bonus")  
-_Réalisation de mon outil de promo !  
-______________
+_Réalisation de mon outil de promo print._
+
+***
 
 ![](/images/documentation.jpg "Documentation")  
 **Documentation x prise de notes multimédia collaborative** [**(ici)**](https://espaces-communs.fr/design-despaces-normes-et-reglementations/ "Les Cahiers du studio")  
 Avec : le collectif apprenant du [DU Espaces communs](https://yeswecamp.org/se-former/ "Espaces communs")  
-_Documentation de la session « Design d'espaces, normes et réglementations » via le défrichage de l'outil libre « Les Cahiers du studio » développé par l'_[_Atelier des chercheurs_](https://latelier-des-chercheurs.fr/ "Atelier des chercheurs").
+_Documentation de la session « Design d'espaces, normes et réglementations » via le défrichage de l'outil libre « Les Cahiers du studio » développé par l'_[_Atelier des chercheurs_](https://latelier-des-chercheurs.fr/ "Atelier des chercheurs").  
+**Idée : documentation de résidence de création, workshop, séminaire d'équipe, etc.**
 
-**Idée : documentation de résidence de création, workshop, séminaire d'équipe, etc.  
-**_______________
+***
