@@ -13,7 +13,7 @@
   </author>
   <entry xml:lang="en">
     <id>/public/missions/</id>
-    <title>Missions</title>
+    <title>missions</title>
     <content type="html">
       <![CDATA[<h5 id="mission-continue-1-journée-et-plus-mois">Mission continue : 1 journée et plus / mois</h5>
 <ul>
@@ -42,7 +42,7 @@
   </entry>
   <entry xml:lang="en">
     <id>/public/actualites/</id>
-    <title>Actualités</title>
+    <title>actualités</title>
     <content type="html">
       <![CDATA[<img src="/images/depliant_01.4654459547f0347141e4b41e4d1d3579.jpg" alt="" title="Depliant riso" loading="lazy" width="512" height="288" />
 <p><strong>CONCEPTION GRAPHIQUE X CARTE DE VISITE DÉPLIANTE</strong><br />
