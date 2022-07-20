@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/public/missions/</loc>
-    <lastmod>2022-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>/public/</loc>
     <lastmod>2022-06-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/public/actualites/</loc>
+    <loc>/public/missions/</loc>
+    <lastmod>2022-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/public/realisations/</loc>
     <lastmod>2022-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
