@@ -1,7 +1,7 @@
 ---
 date: 2022-06-29T12:29:24.000+02:00
 draft: false
-title: Actualites
+title: Actualités
 menu: main
 
 ---
