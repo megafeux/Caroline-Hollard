@@ -44,7 +44,15 @@
     <id>/public/actualites/</id>
     <title>Actualites</title>
     <content type="html">
-      <![CDATA[<img src="/images/depliant_01.4654459547f0347141e4b41e4d1d3579.jpg" alt="" title="Dépliant riso 2" loading="lazy" width="512" height="288" />]]>
+      <![CDATA[<img src="/images/depliant_02.3f601e79ecac407ea005da142c847f95.jpg" alt="" title="Depliant riso" loading="lazy" width="287" height="260" />
+<p><strong>Conception graphique x carte de visite dépliante</strong><br />
+Avec : design graphique : Paul Parant - impression : Atelier Bonus<br />
+<em>Réalisation de mon outil de promo !</em>  </p>
+<img src="/images/documentation.7c84ac101656eb674946c5bc40e06bf3.jpg" alt="" title="Documentation" loading="lazy" width="512" height="288" />
+<p><strong>Documentation x timeline &quot;Les Cahiers du studio&quot;</strong><br />
+Avec : le collectif apprenant du DU Espaces communs<br />
+_Documentation de la session &quot;Design d'espaces, normes et réglementations&quot;. Défrichage de l'outil libre &quot; Les Cahiers du studio&quot; développé par l'Atelier des chercheurs.  </p>
+<p>_<strong>&gt; Idée :</strong> documentation de résidence de création, workshop, séminaire d'équipe, etc.</p>]]>
     </content>
     <link href="/public/actualites/" rel="alternate" type="text/html" />
     <published>2022-06-29T12:29:24+02:00</published>
