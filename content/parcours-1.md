@@ -13,7 +13,7 @@ menu: main
 [**Nancy Jazz Pulsations**](https://nancyjazzpulsations.com/ "Nancy Jazz Pulsations") I Chargée de l'information et des relations presse  
 [**Théâtre National de Strasbourg**](https://www.tns.fr/ "Théâtre National de Strasbourg") I Attachée à l'information
 
-**Structures universitaires**
+**Universités**
 
 **Université Gustave Eiffel** I [DU "Espaces Communs"](https://yeswecamp.org/se-former/ "DU Espaces Communs")  
 **Université du Littoral Côte d'Opale** I Master Culture, création artistique et développement du territoire  
