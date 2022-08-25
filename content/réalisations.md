@@ -5,7 +5,7 @@ title: Réalisations
 menu: main
 
 ---
-![](/images/depliant_01.jpg "Depliant riso")  
+![](/images/depliant_ok.jpg "Depliant riso")  
 **CONCEPTION GRAPHIQUE** • **carte de visite dépliante**  
 **Avec :** design graphique : [Paul Parant](https://paulparant.com/ "Paul Parant") - impression : [Pôle print / Bonus](https://www.collectifbonus.fr/pole-print/ "Bonus")  
 _Réalisation de mon outil de promo format pocket (3 volets, 2 couleurs rose fluo et bleu medium, papier munken pure rough 120g) !_
