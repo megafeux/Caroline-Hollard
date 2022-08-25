@@ -41,26 +41,6 @@
     <updated>2022-06-30T17:08:09+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>/public/realisations/</id>
-    <title>Réalisations</title>
-    <content type="html">
-      <![CDATA[<img src="/images/depliant.25d2726d5bd75458784ee862e1cde96d.jpg" alt="" title="Depliant riso" loading="lazy" width="512" height="288" />
-<p><strong>CONCEPTION GRAPHIQUE</strong> • <strong>carte de visite dépliante</strong><br />
-<strong>Avec :</strong> design graphique : <a href="https://paulparant.com/" title="Paul Parant">Paul Parant</a> - impression : <a href="https://www.collectifbonus.fr/pole-print/" title="Bonus">Pôle print / Bonus</a><br />
-<em>Réalisation de mon outil de promo format pocket (3 volets, 2 couleurs rose fluo et bleu medium, papier munken pure rough 120g) !</em></p>
-<hr />
-<img src="/images/documentation.7c84ac101656eb674946c5bc40e06bf3.jpg" alt="" title="Documentation" loading="lazy" width="512" height="288" />
-<p><strong>DOCUMENTATION</strong> • <strong>prise de notes multimédia collaborative</strong> <a href="https://espaces-communs.fr/design-despaces-normes-et-reglementations/" title="Les Cahiers du studio"><strong>(ici)</strong></a><br />
-<strong>Avec :</strong> le collectif apprenant du <a href="https://yeswecamp.org/se-former/" title="Espaces communs">DU Espaces communs</a><br />
-<em>Documentation de la session « Design d'espaces, normes et réglementations » via le défrichage de l'outil libre « Les Cahiers du studio » développé par l'</em><a href="https://latelier-des-chercheurs.fr/" title="Atelier des chercheurs"><em>Atelier des chercheurs</em></a>.<br />
-<strong>Idée :</strong> documentation de résidence de création, projet de territoire, workshop etc.</p>
-<hr />]]>
-    </content>
-    <link href="/public/realisations/" rel="alternate" type="text/html" />
-    <published>2022-06-29T12:29:24+02:00</published>
-    <updated>2022-06-29T12:29:24+02:00</updated>
-  </entry>
-  <entry xml:lang="en">
     <id>/public/parcours-1/</id>
     <title>Parcours</title>
     <content type="html">
