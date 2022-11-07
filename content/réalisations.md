@@ -5,7 +5,7 @@ title: Réalisations
 menu: main
 
 ---
-![](/images/traffic-ok.jpg)
+![Identité visuelle Traffic](/images/traffic-ok.jpg "Traffic")
 
 **CO-DÉVELOPPEMENT & STRATÉGIE** • **plan de communication événementiel**  
 **Avec :** partenaires : [association Traffic](https://www.facebook.com/asso.traffic "Traffic") et [lille3000](https://www.lille3000.eu/portail/ "lille3000") - design graphique : [Paul Parant](https://paulparant.com/ "Paul Parant") - prestataires pour impression : [Imprimerie Monsoise](http://www.imprimerie-monsoise.com/ "Imprimerie Monsoise") - diffusion : [Shaddok](http://www.shaddok.com/ "Shaddok")  
