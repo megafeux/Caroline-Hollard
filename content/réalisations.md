@@ -5,6 +5,15 @@ title: Réalisations
 menu: main
 
 ---
+![](/images/traffic-ok.jpg)
+
+**CO-DÉVELOPPEMENT & STRATÉGIE** • **plan de communication événementiel**  
+**Avec :** partenaires : [association Traffic](https://www.facebook.com/asso.traffic "Traffic") et [lille3000](https://www.lille3000.eu/portail/ "lille3000") - design graphique : [Paul Parant](https://paulparant.com/ "Paul Parant") - prestataires pour impression : [Imprimerie Monsoise](http://www.imprimerie-monsoise.com/ "Imprimerie Monsoise") - diffusion : [Shaddok](http://www.shaddok.com/ "Shaddok")  
+_Développement et suivi opérationnel du plan de communication du week-end "Traffic, Errances graphiques et musicales" programmé dans le cadre de l'Automne à la Gare Saint Sauveur avec lille3000.  
+_**Suivi :** identité visuelle, campagne de diffusion, animations des communautés en ligne, accueil sur l'événement
+
+***
+
 ![](/images/depliant_ok.jpg "Depliant riso")  
 **CONCEPTION GRAPHIQUE** • **carte de visite dépliante**  
 **Avec :** design graphique : [Paul Parant](https://paulparant.com/ "Paul Parant") - impression : [Pôle print / Bonus](https://www.collectifbonus.fr/pole-print/ "Bonus")  
