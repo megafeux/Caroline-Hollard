@@ -11,7 +11,7 @@ menu: main
 * Actualisation des outils (site web, newsletter, dossier artistique, kit com)
 * Coordination/conception des outils de communication avec les prestataires (graphiste, imprimeur.euse, traducteur.rice)
 * Développement/suivi d’une grille éditoriale (site web, réseaux sociaux, magazine)
-* Documentation sur des actions (résidence, projet de territoire, occupation, chantier participatif)
+* Documentation sur des actions (résidence, projet de territoire, occupation, chantier participatif) **->** [comme ici](https://espaces-communs.fr/design-despaces-normes-et-reglementations/ "documentation")
 * Médiation sur des actions de proximité (permanence d’accueil sur un événement, stand de proximité)
 * Communication interne et animation du collectif (équipe, bénévoles, adhérent.e.s)
 
