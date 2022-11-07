@@ -7,7 +7,7 @@ menu: main
 ---
 ##### Mission continue : 1 journée et plus / mois
 
-* Co-définition et suivi du plan de communication
+* Co-définition et suivi du plan de communication **->** [comme ici](https://www.carolinehollard.com/realisations/)
 * Actualisation des outils (site web, newsletter, dossier artistique, kit com)
 * Coordination/conception des outils de communication avec les prestataires (graphiste, imprimeur.euse, traducteur.rice)
 * Développement/suivi d’une grille éditoriale (site web, réseaux sociaux, magazine)
