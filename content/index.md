@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Caroline Hollard - accompagnement sur des missions de communication
+# Caroline Hollard, accompagnement sur des missions de communication
 
 > Communication culturelle tout terrain : champ d'action adapté à des besoins ponctuels ou réguliers « J'accompagne les projets culturels en communication dans une démarche de proximité et de sobriété »
 
@@ -10,7 +10,7 @@ title: Home
 Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou par téléphone au 06 77 80 66 99
 
 #### 🎢 Pause pour congé maternité de mi-janvier à mi-avril
-N'hésitez pas à me contacter pendant cette pause pour garder le lien et échanger sur un planning, il me reste des disponibilités pour le printemps pour préparer vos saisons et événements de l'été, Avignon, mais aussi vos chantiers et festivals de la rentrée !
+N'hésitez pas à me contacter pendant cette pause pour garder le lien et échanger sur un planning, il me reste des disponibilités pour le printemps pour **préparer vos saisons et événements de l'été, Avignon, mais aussi vos chantiers et festivals de la rentrée !**
 
 
 
