@@ -38,7 +38,7 @@
     </content>
     <link href="/public/missions/" rel="alternate" type="text/html" />
     <published>2022-06-30T17:08:09+02:00</published>
-    <updated>2022-11-07T16:01:26+01:00</updated>
+    <updated>2023-01-13T15:56:16+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/public/realisations/</id>
@@ -73,7 +73,7 @@
     </content>
     <link href="/public/realisations/" rel="alternate" type="text/html" />
     <published>2022-06-29T12:29:24+02:00</published>
-    <updated>2022-11-07T16:01:26+01:00</updated>
+    <updated>2023-01-13T15:56:16+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>/public/parcours-1/</id>
@@ -92,6 +92,30 @@
     </content>
     <link href="/public/parcours-1/" rel="alternate" type="text/html" />
     <published>2022-06-16T17:29:42+02:00</published>
-    <updated>2022-11-07T16:01:26+01:00</updated>
+    <updated>2023-01-13T15:56:16+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>/public/parcours/</id>
+    <title>Présentation</title>
+    <content type="html">
+      <![CDATA[<p>Je contribue à la conception et l’<strong>animation de projets culturels</strong> en tant que chargée de communication. Basée à Nantes, je me déplace <strong>d’un territoire à l’autre</strong>. C’est dans une démarche de <strong>proximité</strong>, en valorisant les dynamiques relationnelles, et de <strong>sobriété</strong>, en allant à l’essentiel, que j’accompagne les compagnies et les collectifs. Je favorise ainsi les bonnes pratiques en cohérence avec les <strong>transitions actuelles</strong>.<br />
+Je construis vos <strong>plans de communication</strong>, coordonne la réalisation et la circulation des <strong>supports</strong>, décline des <strong>messages</strong> et <strong>récits</strong> adaptés aux projets stimulants que vous imaginez. C’est entourée de partenaires que j’assure le suivi des projets ; je travaille à distance géographique ou je m’installe au sein d’espaces de création, de diffusion et de convivialité. Dans mon champ d’action s’inscrivent aussi la <strong>documentation</strong> des projets sur le terrain et l’<strong>accueil</strong> des groupes et des usagers.ères.</p>
+<h5 id="champ-d-action">Champ d'action</h5>
+<ul>
+<li>Co-conception d’outils de communication print &amp; web</li>
+<li>Définition de plan de communication</li>
+<li>Expérimentation d’outils de documentation -&gt; <a href="https://espaces-communs.fr/design-despaces-normes-et-reglementations/" title="Documentation session DU">comme ici</a></li>
+<li>Médiation sur des actions de proximité</li>
+</ul>
+<h5 id="avec-qui">Avec qui ?</h5>
+<ul>
+<li>Compagnies du spectacle vivant</li>
+<li>Collectifs artistiques au sein d’espaces communs</li>
+<li>Expérimentations artistiques, documentaires &amp; sociales</li>
+</ul>]]>
+    </content>
+    <link href="/public/parcours/" rel="alternate" type="text/html" />
+    <published>2022-06-16T15:47:17+02:00</published>
+    <updated>2023-01-13T15:56:16+01:00</updated>
   </entry>
 </feed>
