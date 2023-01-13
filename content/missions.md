@@ -5,7 +5,7 @@ title: Missions
 menu: main
 
 ---
-##### Mission continue : 1 journée et plus / mois
+##### 🤝 Mission continue : 1 journée et plus / mois
 
 * Co-définition et suivi du plan de communication **->** [comme ici](https://www.carolinehollard.com/realisations/)
 * Actualisation des outils (site web, newsletter, dossier artistique, kit com)
@@ -15,7 +15,7 @@ menu: main
 * Médiation sur des actions de proximité (permanence d’accueil sur un événement, stand de proximité)
 * Communication interne et animation du collectif (équipe, bénévoles, adhérent.e.s)
 
-##### Mission forfaitaire : 1-2-3 journées et plus
+##### 🤝 Mission forfaitaire : 1-2-3 journées et plus
 
 * Co-définition d’une stratégie de communication (identité visuelle, plan de communication)
 * Coordination/conception d’outil print complexe ou expérimental (projet graphique, dossier artistique, brochure)
