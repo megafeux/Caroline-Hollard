@@ -10,7 +10,7 @@ title: Home
 Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou par téléphone au 06 77 80 66 99
 
 #### 🏋🏻‍♀️ Reprise après congé maternité 
-Je reprends mes activités progressivement, n'hésitez pas à me contacter pour échanger sur un planning, je suis disponible dans les semaines à venir pour **assurer le suivi de vos événements de l'été, mais aussi préparer vos saisons, chantiers et festivals de la rentrée !**
+Je reprends mes activités progressivement, n'hésitez pas à me contacter pour échanger sur un planning : je suis disponible dans les semaines à venir pour **assurer le suivi de vos événements de l'été, mais aussi préparer vos saisons, chantiers et festivals de la rentrée !**
 
 
 
