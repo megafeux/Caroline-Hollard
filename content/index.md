@@ -9,8 +9,8 @@ title: Home
 #### 💌 Contact
 Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou par téléphone au 06 77 80 66 99
 
-#### 🎢 Pause pour congé maternité de mi-janvier à mi-avril
-N'hésitez pas à me contacter pendant cette pause pour garder le lien et échanger sur un planning, il me reste des disponibilités pour le printemps pour **préparer vos saisons et événements de l'été, Avignon, mais aussi vos chantiers et festivals de la rentrée !**
+#### 🏋🏻‍♀️ Reprise après congé maternité 
+Je reprends mes activités progressivement, n'hésitez pas à me contacter pour échanger sur un planning, je suis disponible dans les semaines à venir pour **assurer le suivi de vos saisons et événements de l'été, mais aussi préparer vos chantiers et festivals de la rentrée !**
 
 
 
