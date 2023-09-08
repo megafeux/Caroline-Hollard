@@ -10,7 +10,6 @@ menu: main
 **CONCEPTION WEB** • **newsletter**  
 **Avec :** partenaire : [Leafy](https://leafy.fr/ "Leafy")  
 _Conception d'une newsletter pour l'offre de formations professionnelles du premier semestre 2023 de Leafy. Centralisation des infos, mise en forme, suivi du fichier client et des statistiques._  
->>>>>>> b9f958ceb6e932ca388b5dcfa362c336be38b8ca
 **Idée :** conception d'une newsletter sur mesure et généreuse  
 **#formation #artsvisuels**
 
