@@ -5,6 +5,16 @@ title: Réalisations
 menu: main
 
 ---
+
+![Newsletter Leafy](/images/leafy.jpg "Leafy")  
+**CONCEPTION WEB** • **newsletter**  
+**Avec :** partenaire : [Leafy](https://leafy.fr/ "Leafy")
+_Conception d'une newsletter pour l'offre de formations professionnelles du premier semestre 2023 de Leafy. Centralisation des infos, mise en forme, suivi du fichier client et des statistiques._  
+**Idée :** conception d'une newsletter sur mesure et généreuse  
+**#formation #artsvisuels**
+
+***
+
 ![Dépliants Prisme](/images/prisme.jpg "Prisme")  
 **APPUI CONCEPTION & IMPRESSION** • **suivi production support**  
 **Avec :** partenaires : [association Mire](https://www.mire-exp.org/en/ "Association Mire") - design graphique : [Paul Parant](https://paulparant.com/ "Paul Parant") - prestataire pour impression : [Média Graphic](http://www.e-media-graphic.com/ "Média Graphic")  
