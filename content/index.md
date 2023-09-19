@@ -13,7 +13,7 @@ Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou p
 Je reprends mes activités : je suis disponible dans les semaines à venir pour **assurer le suivi de vos événements, actualiser vos beaux outils de com, prendre le temps de réflechir à vos chantiers à venir  !**
 
 #### 🔥 C'est la rentrée et on brûle : décarbonons ! 
-Ici chaque visite pèse **0.03g CO2** 
+Ce mini-site artisanal est volontairement allégé en contenus, chaque visite pèse **0.03g CO2** 
 Sur 10 000 visites par mois sur 1 an (soyons large)  
 = 4.16 kg CO2  
 ce qui fait **69 km parcourus par une voiture électrique**  
