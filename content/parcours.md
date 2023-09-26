@@ -19,4 +19,6 @@ Je construis vos **plans de communication**, coordonne la réalisation et la cir
 
 * Compagnies du spectacle vivant
 * Collectifs artistiques au sein d’espaces communs
-* Expérimentations artistiques, documentaires & sociales
+* Expérimentations artistiques, documentaires & sociales  ***
+
+![](/images/portrait.jpg "portrait") 
