@@ -21,6 +21,6 @@ menu: main
 
 **Collectifs**
 
-[**Le Pressing Print Lab**] (https://lepressingprintlab.fr/) I Présidence de l'association, Laboratoire de pratiques artistiques
-[**Dessins sans papiers**] (https://dessinssanspapiers.wordpress.com/) I Coordination des ateliers de dessins à Nantes
-[**L'Autre Cantine**] (https://www.facebook.com/lautrecantinenantes/) I Bénévole, Cantine solidaire
+[**Le Pressing Print Lab**](https://lepressingprintlab.fr/ "Le Pressing Print Lab") I Présidence de l'association, Laboratoire de pratiques artistiques
+[**Dessins sans papiers**](https://dessinssanspapiers.wordpress.com/ "Dessins sans papiers") I Coordination des ateliers de dessins à Nantes
+[**L'Autre Cantine**](https://www.facebook.com/lautrecantinenantes/ "L'Autre Cantine") I Bénévole, Cantine solidaire
