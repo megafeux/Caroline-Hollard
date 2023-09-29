@@ -11,13 +11,7 @@ menu: main
 [**Culture Commune**](https://www.culturecommune.fr/ "Culture Commune") I Chargée de communication  
 [**Rencontres audiovisuelles**](https://www.rencontres-audiovisuelles.org/ "Rencontres Audiovisuelles") I Chargée de l'information  
 [**Nancy Jazz Pulsations**](https://nancyjazzpulsations.com/ "Nancy Jazz Pulsations") I Chargée de l'information et des relations presse  
-[**Théâtre National de Strasbourg**](https://www.tns.fr/ "Théâtre National de Strasbourg") I Attachée à l'information
-
-🧠 **Universités**
-
-**Université Gustave Eiffel** I [DU "Espaces Communs"](https://yeswecamp.org/se-former/ "DU Espaces Communs")  
-**Université du Littoral Côte d'Opale** I Master Culture, création artistique et développement du territoire  
-**Université de Lille** I Licence Culture et Médias  
+[**Théâtre National de Strasbourg**](https://www.tns.fr/ "Théâtre National de Strasbourg") I Attachée à l'information  
 
 🙌 **Collectifs**
 
@@ -28,3 +22,9 @@ menu: main
 🤸‍♀️ 🤸 **Réseau**
 
 [**Arviva**](https://arviva.org/ "Arviva") I Membre du réseau Arviva – Arts vivants, Arts durables qui rassemble les acteur-rice-s du secteur du spectacle vivant engagé-e-s dans la transformation écologique   
+
+🧠 **Universités**
+
+**Université Gustave Eiffel** I [DU "Espaces Communs"](https://yeswecamp.org/se-former/ "DU Espaces Communs")  
+**Université du Littoral Côte d'Opale** I Master Culture, création artistique et développement du territoire  
+**Université de Lille** I Licence Culture et Médias  
