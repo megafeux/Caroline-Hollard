@@ -19,4 +19,8 @@ menu: main
 **Université du Littoral Côte d'Opale** I Master Culture, création artistique et développement du territoire  
 **Université de Lille** I Licence Culture et Médias  
 
-![](/images/portrait.jpg "portrait")
+**Collectifs**
+
+[**Le Pressing Print Lab**] (https://lepressingprintlab.fr/) I Présidence de l'association, Laboratoire de pratiques artistiques
+[**Dessins sans papiers**] (https://dessinssanspapiers.wordpress.com/) I Coordination des ateliers de dessins à Nantes
+[**L'Autre Cantine**] (https://www.facebook.com/lautrecantinenantes/) I Bénévole, Cantine solidaire
