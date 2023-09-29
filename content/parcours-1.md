@@ -23,4 +23,8 @@ menu: main
 
 [**Le Pressing Print Lab**](https://lepressingprintlab.fr/ "Le Pressing Print Lab") I Présidence de l'association, Laboratoire de pratiques artistiques  
 [**Dessins sans papiers**](https://dessinssanspapiers.wordpress.com/ "Dessins sans papiers") I Coordination des ateliers de dessins à Nantes  
-[**L'Autre Cantine**](https://www.facebook.com/lautrecantinenantes/ "L'Autre Cantine") I Bénévole, Cantine solidaire
+[**L'Autre Cantine**](https://www.facebook.com/lautrecantinenantes/ "L'Autre Cantine") I Bénévole, Cantine solidaire  
+
+🤸‍♀️ 🤸 **Réseau**
+
+[**Arviva**](https://arviva.org/ "Arviva") I Membre du réseau Arviva – Arts vivants, Arts durables qui rassemble les acteur-rice-s du secteur du spectacle vivant engagé-e-s dans la transformation écologique   
