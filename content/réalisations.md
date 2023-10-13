@@ -9,7 +9,7 @@ menu: main
 **STRATÉGIE ÉDITORIALE & CONCEPTION WEB** • **newsletter**  
 **Avec :** partenaire : [Le Pressing Print Lab](https://lepressingprintlab.fr/ "Leafy")  
 _Conception d'une newsletter pour l'offre d'ateliers du Pressing Print Lab, atelier mobile de pratiques artistiques. Stratégie éditoriale, mise en forme et suivi du fichier contacts._  
-**Idée :** co-élaboration d'un récit cohérent et désirable
+**Idée :** co-élaboration d'un récit cohérent et désirable  
 **#EAC #artsvisuels**
 
 ***
