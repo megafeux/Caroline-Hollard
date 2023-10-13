@@ -20,7 +20,7 @@ menu: main
 * Co-définition d’une stratégie de communication (identité visuelle, plan de communication)
 * Coordination/conception d’outil print complexe ou expérimental (projet graphique, dossier artistique, brochure)
 * Coordination/conception web (rafraîchissement ou éco-conception de site web)
-* Définition d’une stratégie éditoriale (site web, fanzine, communautés en ligne)
+* Définition d’une stratégie éditoriale (site web, fanzine, communautés en ligne) **->** [comme ici](https://www.carolinehollard.com/realisations/)
 * Déclinaison d’un plan de communication pour un temps fort
 * Documentation et/ou médiation sur une action (résidence, projet de territoire)
 * Relations presse
