@@ -7,7 +7,7 @@ menu: main
 ---
 
 👋  
-![Portrait](/images/portrait2.png "Portrait 2") <div align="left">…</div>
+![Portrait] <div align="left">…</div>(/images/portrait2.png "Portrait 2")
 © Stéphane Bruneau 
 
 Je contribue à la conception et l’**animation de projets culturels** en tant que chargée de communication. Basée à Nantes, je me déplace **d’un territoire à l’autre**. C’est dans une démarche de **proximité**, en valorisant les dynamiques relationnelles, et de **sobriété**, en allant à l’essentiel, que j’accompagne les compagnies et les collectifs. Je favorise ainsi les bonnes pratiques en cohérence avec les **transitions actuelles**.  
