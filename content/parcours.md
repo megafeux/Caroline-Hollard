@@ -7,7 +7,7 @@ menu: main
 ---
 
 
-👋
+👋  
 ![Portrait](/images/photo-traffic2.png "Photo-traffic")
 📸 Week-end Traffic à la Gare Saint Sauveur © Stéphane Bruneau  
   
