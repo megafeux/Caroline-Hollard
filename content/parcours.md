@@ -24,5 +24,7 @@ Je construis vos **plans de communication**, coordonne la réalisation et la cir
 * Collectifs artistiques au sein d’espaces communs
 * Expérimentations artistiques, documentaires & sociales
 
+
+
 ![Portrait](/images/photo-traffic.jpg "Photo-traffic")
- Week-end Traffic à la Gare Saint Sauveur © Stéphane Bruneau 
+ 🙋‍♀️ 📸 Week-end Traffic à la Gare Saint Sauveur © Stéphane Bruneau 
