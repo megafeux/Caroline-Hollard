@@ -26,5 +26,5 @@ Je construis vos **plans de communication**, coordonne la réalisation et la cir
 
 
 
-![Portrait](/images/photo-traffic.jpg "Photo-traffic")
- 🙋‍♀️ 📸 Week-end Traffic à la Gare Saint Sauveur © Stéphane Bruneau 
+![Portrait](/images/photo-traffic2.png "Photo-traffic")
+ 📸 Week-end Traffic à la Gare Saint Sauveur © Stéphane Bruneau 
