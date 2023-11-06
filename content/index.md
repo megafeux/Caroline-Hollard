@@ -9,11 +9,11 @@ title: Home
 #### 💌 Contact
 Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou par téléphone au 06 77 80 66 99
 
-#### 🏋🏻‍♀️ Reprise après congé maternité 
-Je reprends mes activités : je suis disponible dans les semaines à venir pour **assurer le suivi de vos événements, actualiser vos beaux outils de com, prendre le temps de réflechir à vos chantiers à venir  !**
+#### 🍂 Disponibilités !
+Je suis disponible dans les semaines à venir pour **assurer le suivi de vos événements, actualiser vos beaux outils de com, prendre le temps de réflechir à vos chantiers à venir  !**
 
-#### 🔥 C'est la rentrée et on brûle : décarbonons ! 
-Ce mini-site artisanal est volontairement allégé en contenus, chaque visite pèse **0.03g CO2**   
+#### 🔥 Décarbonons ! 
+Ce mini-site artisanal est volontairement allégé en contenus et en effets, chaque visite pèse **0.03g CO2**   
 Sur 10 000 visites par mois sur 1 an (soyons large) = 4.16 kg CO2  
 ce qui fait **69 km parcourus par une voiture électrique**  
 Faites le test sur [**Website Carbon Calculator**](https://www.websitecarbon.com/ "Website Carbon Calculator") 
