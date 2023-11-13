@@ -5,6 +5,16 @@ title: Réalisations
 menu: main
 
 ---
+
+![Dépliants Prisme](/images/prisme-6.png "Prisme")  
+**APPUI SUR LA CONCEPTION DES SUPPORTS & LA STRATEGIE DE DIFFUSION ** • **stratégie événementielle**  
+**Avec :** partenaires : [association Mire](https://www.mire-exp.org/en/ "Association Mire") - design graphique : [Paul Parant](https://paulparant.com/ "Paul Parant") - prestataire pour impression : [VAL-PG](https://www.val-pg.com/ "VAL-PG")- Diffusion : [Make My Diff](https://makemydiff.fr/ "Make My Diff") - Impression stickers : [Black Factory](https://blackfactory.fr/ "Black Factory")  
+_Suivi de production et conseil sur la diffusion des dépliants/affiches du Festival Prisme #6 organisé par l'Association nantaise Mire, en lien avec le designer graphique._  
+**Idée :** coordination de la production et diffusion des supports d'un festival (avec mini et maxi budget) 
+**#festival #local**  
+
+***
+
 ![Newsletter Le Pressing Print Lab](/images/le-pressing.png "Le Pressing Print Lab")  
 **STRATÉGIE ÉDITORIALE & CONCEPTION WEB** • **newsletter**  
 **Avec :** partenaire : [Le Pressing Print Lab](https://lepressingprintlab.fr/ "Leafy")  
