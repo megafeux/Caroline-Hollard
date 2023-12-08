@@ -9,7 +9,7 @@ title: Home
 #### 💌 Contact
 Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou par téléphone au 06 77 80 66 99
 
-#### 🍂 Disponibilités !
+#### ❄️ Disponibilités !
 Je suis disponible dans les semaines à venir pour **assurer le suivi de vos événements, actualiser vos beaux outils de com, prendre le temps de réflechir à vos chantiers à venir  !**
 
 #### 🔥 Décarbonons ! 
