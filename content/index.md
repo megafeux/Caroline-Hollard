@@ -6,12 +6,6 @@ title: Home
 
 > Communication culturelle tout terrain : champ d'action adapté à des besoins ponctuels ou réguliers « J'accompagne les projets culturels en communication dans une démarche de proximité et de sobriété »
 
-#### 🏄‍♀️ Démarche éco-responsable
-Définition de stratégies sur mesure en co-construction avec les équipes en favorisant la réduction de l'empreinte des actions de communication  
-Conseil sur des prestataires locaux et éco-responsables (graphistes, ateliers d'impression, diffuseurs, médias) et mutualisation des commandes  
-Facilitation d'outils libres et alternatifs  
-Charte inclusive  
-
 #### 💌 Contact
 Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou par téléphone au 06 77 80 66 99
 
@@ -26,8 +20,11 @@ Faites le test sur [**Website Carbon Calculator**](https://www.websitecarbon.com
 
 --------------
 
-#### 🙏 Contributions
-C'est comment la com. chez vous ? Contribuez au petit [**questionnaire ici**](https://framaforms.org/cest-comment-la-com-chez-vous-1643731593/ "questionnaire ici") !
+#### 🏄‍♀️ Démarche éco-responsable
+Définition de stratégies sur mesure en co-construction avec les équipes en favorisant la réduction de l'empreinte des actions de communication  
+Conseil sur des prestataires locaux et éco-responsables (graphistes, ateliers d'impression, diffuseurs, médias) et mutualisation des commandes  
+Facilitation d'outils libres et alternatifs  
+Charte inclusive  
 
 #### Valeurs
 Convivialité - proximité - sobriété & éco-conception - accessibilité & inclusion - coopération 
