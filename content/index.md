@@ -10,6 +10,7 @@ title: Home
 - Définition de stratégies sur mesure en co-construction avec les équipes en favorisant la réduction de l'empreinte des actions de communication  
 - Conseil sur des prestataires locaux et éco-responsables (graphistes, ateliers d'impression, diffuseurs, médias) et mutualisation des commandes  
 - Facilitation d'outils libres et alternatifs  
+- Charte inclusive
 
 #### 💌 Contact
 Parlons-en : <a href="mailto:caroline.hollard@proton.me"> **par mail** </a> ou par téléphone au 06 77 80 66 99
