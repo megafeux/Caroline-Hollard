@@ -18,7 +18,6 @@ Sur 10 000 visites par mois sur 1 an (soyons large) = 4.16 kg CO2
 ce qui fait **69 km parcourus par une voiture électrique**  
 Faites le test sur [**Website Carbon Calculator**](https://www.websitecarbon.com/ "Website Carbon Calculator") 
 
---------------
 
 #### 🏄‍♀️ Démarche éco-responsable
 Définition de stratégies sur mesure en co-construction avec les équipes en favorisant la réduction de l'empreinte des actions de communication  
