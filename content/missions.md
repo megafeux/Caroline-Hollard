@@ -24,3 +24,9 @@ menu: main
 * Déclinaison d’un plan de communication pour un temps fort
 * Documentation et/ou médiation sur une action (résidence, projet de territoire)
 * Relations presse
+
+#### 🏄‍♀️ Démarche éco-responsable  
+Définition de stratégies sur mesure en co-construction avec les équipes en favorisant la réduction de l'empreinte des actions de communication  
+Conseil sur des prestataires locaux et éco-responsables (graphistes, ateliers d'impression, diffuseurs, médias) et mutualisation des commandes  
+Facilitation d'outils libres et alternatifs  
+Charte inclusive
