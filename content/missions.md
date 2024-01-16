@@ -24,3 +24,5 @@ menu: main
 * Déclinaison d’un plan de communication pour un temps fort
 * Documentation et/ou médiation sur une action (résidence, projet de territoire)
 * Relations presse
+
+plouf plouf
