@@ -25,4 +25,3 @@ menu: main
 * Documentation et/ou médiation sur une action (résidence, projet de territoire)
 * Relations presse
 
-plouf plouf
